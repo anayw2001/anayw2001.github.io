@@ -6,8 +6,8 @@ description: Jekyll Theme Minimal Resume
 
 # User settings
 username: Anay Wadhera
-user_description: I'm an incoming sophomore at UC Berkeley, studying CS and I'm always willing to learn about new things! I am very involved in the custom Android community, where I am the creator of a custom fork of Android called StatiXOS, which I created when I couldn't find any other fork of Android that really satisfied my needs for performance and stability.
-user_title: Computer Science Student at UC Berkeley
+user_description: I'm a software engineer at Google and I'm always willing to learn about new things! I am very involved in the custom Android community, where I am the creator of a custom fork of Android called StatiXOS, which I created when I couldn't find any other fork of Android that really satisfied my needs for performance and stability.
+user_title: Software Engineer at Google
 email: anay1018@gmail.com
 # twitter_username: lorem_ipsum
 # github_username:  lorem_ipsum
